@@ -100,9 +100,9 @@ If you're using a federated Identity Provider (IdP), such as Active Directory 
 
 ## Request more time to prepare for enforcement 
 
-We understand that some customers may need more time to prepare for this MFA requirement. Microsoft is allowing customers with complex environments or technical barriers to postpone the enforcement for their tenants until March 15, 2025. 
+We understand that some customers may need more time to prepare for this MFA requirement. Microsoft is allowing customers with complex environments or technical barriers to postpone the enforcement for their tenants until September 30, 2025. 
 
-Between August 15, 2024 and October 15, 2024, Global Administrators can go to the [Azure portal](https://aka.ms/managemfaforazure) to postpone the start date of enforcement for their tenant to March 15, 2025. Global Administrators must have [elevated access](https://aka.ms/enableelevatedaccess) before postponing the start date of MFA enforcement on this page.  
+Global Administrators can go to the [Azure portal](https://aka.ms/managemfaforazure) to choose the start date of enforcement for their tenant up to September 30, 2025. Global Administrators must have [elevated access](https://aka.ms/enableelevatedaccess) before postponing the start date of MFA enforcement on this page.  Please wait until 2nd half of February 2025 to see the option to choose your own enforcement date.
 
 Global Administrators must perform this action for every tenant where they want to postpone the start date of enforcement.  
 
